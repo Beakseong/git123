@@ -1,0 +1,17 @@
+package ex04;
+
+import java.util.Scanner;
+
+public class Ex03 {
+	public static void main(String[] args) {
+
+	
+
+	char c1 = 'a';
+	char c2 = c1;
+	char c2 =' ';
+	System.out.println(c1);
+	
+	
+	}
+}

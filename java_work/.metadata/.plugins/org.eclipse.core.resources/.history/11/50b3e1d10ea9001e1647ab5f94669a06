@@ -1,0 +1,12 @@
+package ex02;
+
+public class Ex02 {
+
+	public static void main(String[] args) {
+	 	string a = "abc"
+	 	string b = "def"
+	 	
+	 	System.out.println(a);
+	 	System.out.println(b);
+	}
+}

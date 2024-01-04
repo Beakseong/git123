@@ -1,0 +1,12 @@
+package ex04;
+
+class Solution {
+    public static int solution(int num1, int num2) {
+        int answer = 0;
+        return answer;
+    }
+    public static void main(String[] args){
+        int result = solution(100,100);
+        System.out.println(result);
+    }
+}

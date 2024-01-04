@@ -1,0 +1,14 @@
+package ec03;
+
+public class ex10 {
+    public static void main(String[] args) {
+		int a =10;
+		int b = 20;
+		System.out.println("a=%d,b=%d\n", a,b);
+		
+		int c = 300;
+		byte d = (byte)c;
+		System.out.println("c=%d,d=%d",c,d);
+		
+	}
+}

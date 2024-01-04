@@ -1,0 +1,31 @@
+package ex02;
+
+import java.util.Scanner;
+
+
+class AA{
+	public void doA() {
+		System.out.println("AA.doA()");
+		
+	}
+	
+}
+public class ex07 {
+	
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+	    System.out.println("입력 하세요 !");
+	    
+	    string inputString = scan.nextLine();
+	    System.out.println(inputString);
+	    
+	    AA aa = new AA ();
+	    aa.doA();
+	    scan
+	  
+	    
+	    
+	}
+
+}
